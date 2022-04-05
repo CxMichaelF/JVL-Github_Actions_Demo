@@ -1,6 +1,6 @@
 This is a "Vulnerable" Web Application developed by Cyber Security and Privacy Foundation(www.cysecurity.org). This app is intended for the Java Programmers and other people who wish to learn about Web application vulnerabilities and write secure code.
 
-MFCx: 0404-> UPDATE-05
+MFCx: 0404-> UPDATE-06
 
 **The full course content is now available on Github for free:**
 
